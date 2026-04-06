@@ -1285,20 +1285,6 @@ The $4.6 trillion addressable market of the service industry is the next battleg
 
 ---
 
-## Related Projects
-
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| **Depth & Velocity** | A methodology for new business development in the AI era | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
-| **The Palantir Impact** | Dissecting Palantir Foundry's Ontology Strategy | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
-| **The Silence of Intelligence** | Systematizing the philosophy of Anthropic CEO Dario Amodei | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
-| **The Anatomy of Anthropic** | A comprehensive dissection of Anthropic's strategy, products, research, and safety | [GitHub](https://github.com/Leading-AI-IO/anatomy-of-anthropic) |
-| **Advertising, Redesigned** | How AI transforms advertising from "interruption" to "gentle suggestion" | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
-| **Design Strategy in the AI Era** | Redefining design strategy, including a structural analysis of IDEO's collapse | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
-| **The AI Organization** | Why AI adoption fails — the root cause is organization, not technology | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization) |
-
----
-
 ## Contributing
 
 Issues and Pull Requests are welcome. We welcome contributions including new Autopilot company case studies, updated market data, regulatory developments by country, and typo corrections.
@@ -1307,5 +1293,5 @@ Issues and Pull Requests are welcome. We welcome contributions including new Aut
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-© 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
+© 2026 Satoshi Yamauchi / [Leading AI](https://www.leading-ai.io/) — Licensed under CC BY 4.0
