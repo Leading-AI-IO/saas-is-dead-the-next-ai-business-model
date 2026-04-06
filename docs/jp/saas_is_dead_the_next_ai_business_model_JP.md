@@ -1,6 +1,6 @@
 # SaaS Is Dead: The AI Business Model That Will Create the Next $1 Trillion Company
 
-**AIが"ツール"を殺し、"仕事"を売る時代が来る。 —— SaaSからService-as-a-Softwareへの構造的転換。**
+**SaaS Is Dead: SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese-blue)](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model/blob/main/docs)
