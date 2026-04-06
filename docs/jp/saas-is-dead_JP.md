@@ -109,10 +109,12 @@ flowchart LR
 
     ERA1 -- "歴史の反復" --> ERA2
 
-    style ERA1 fill:#e8f4fd,stroke:#2196F3,color:#1a1a2e
-    style ERA2 fill:#e8fdf0,stroke:#00b894,color:#1a1a2e
-    style A1 fill:#2196F3,stroke:#2196F3,color:#fff
+    style ERA1 fill:#f0f0f5,stroke:#4a4a6a,color:#1a1a2e
+    style ERA2 fill:#e8fdf5,stroke:#00b894,color:#1a1a2e
+    style A1 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style A2 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
     style B1 fill:#00b894,stroke:#00b894,color:#fff
+    style B2 fill:#00b894,stroke:#00b894,color:#fff
 ```
 
 ### 第1章 参考文献
@@ -169,9 +171,12 @@ flowchart TD
     D --> E{"現在のAIアプリ収益\n数百億ドル規模"}
     E --> F["❌ 収益ギャップ\n$5,000億以上"]
 
-    style A fill:#667eea,stroke:#667eea,color:#fff
-    style D fill:#e74c3c,stroke:#e74c3c,color:#fff
-    style F fill:#e74c3c,stroke:#e74c3c,color:#fff
+    style A fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style B fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style C fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style D fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style E fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style F fill:#1a1a2e,stroke:#1a1a2e,color:#fff
 ```
 
 ### 2.3 ギャップは拡大している
@@ -277,9 +282,13 @@ flowchart LR
 
     BEFORE -- "シート・コンプレッション\n-81%" --> AFTER
 
-    style BEFORE fill:#fef3f0,stroke:#e74c3c,color:#1a1a2e
-    style AFTER fill:#e8fdf0,stroke:#00b894,color:#1a1a2e
-    style P3 fill:#e74c3c,stroke:#e74c3c,color:#fff
+    style BEFORE fill:#f0f0f5,stroke:#2d2d44,color:#1a1a2e
+    style AFTER fill:#e8fdf5,stroke:#00b894,color:#1a1a2e
+    style P1 fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style P2 fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style P3 fill:#1a1a2e,stroke:#1a1a2e,color:#fff
+    style Q1 fill:#33c9a9,stroke:#33c9a9,color:#fff
+    style Q2 fill:#33c9a9,stroke:#33c9a9,color:#fff
     style Q3 fill:#00b894,stroke:#00b894,color:#fff
 ```
 
@@ -342,9 +351,10 @@ flowchart TD
     B --> D["❌ 死亡: ワークフロー・ラッパー\nダッシュボード / レポート / タスク管理\n= 人間用UI"]
     B --> E["🚀 進化: Autopilotモデル\n成果販売 / アウトカム課金\n= 仕事の完遂"]
 
-    style A fill:#667eea,stroke:#667eea,color:#fff
-    style C fill:#27ae60,stroke:#27ae60,color:#fff
-    style D fill:#e74c3c,stroke:#e74c3c,color:#fff
+    style A fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style B fill:#7a7a9a,stroke:#7a7a9a,color:#fff
+    style C fill:#33c9a9,stroke:#33c9a9,color:#fff
+    style D fill:#1a1a2e,stroke:#1a1a2e,color:#fff
     style E fill:#00b894,stroke:#00b894,color:#fff
 ```
 
@@ -431,10 +441,10 @@ flowchart LR
     INT -- "AIが代替\n（臨界点突破済み）" --> REPLACED["🤖 AI自律実行"]
     JDG -- "人間が保持\n（だが境界は移動中）" --> HUMAN["👤 人間の領域"]
 
-    style INT fill:#e74c3c,stroke:#e74c3c,color:#fff
-    style JDG fill:#2196F3,stroke:#2196F3,color:#fff
-    style REPLACED fill:#e74c3c,stroke:#e74c3c,color:#fff
-    style HUMAN fill:#2196F3,stroke:#2196F3,color:#fff
+    style INT fill:#f0f0f5,stroke:#2d2d44,color:#1a1a2e
+    style JDG fill:#e8fdf5,stroke:#00b894,color:#1a1a2e
+    style REPLACED fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style HUMAN fill:#00b894,stroke:#00b894,color:#fff
 ```
 
 ### 4.4 なぜソフトウェアエンジニアリングが最初に陥落したか
@@ -532,9 +542,10 @@ flowchart LR
     COP -. "モデル進化 = 脅威\n差別化が侵食される" .-> RISK["⚠️ プラットフォームに\n吸収されるリスク"]
     AUT -. "モデル進化 = 追い風\nコスト低下・品質向上" .-> WIN["🚀 競争力が\n複利で増す"]
 
-    style COP fill:#e74c3c,stroke:#e74c3c,color:#fff
-    style AUT fill:#00b894,stroke:#00b894,color:#fff
-    style RISK fill:#e74c3c,stroke:#e74c3c,color:#fff
+    style COP fill:#f0f0f5,stroke:#2d2d44,color:#1a1a2e
+    style AUT fill:#e8fdf5,stroke:#00b894,color:#1a1a2e
+    style MODEL fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style RISK fill:#1a1a2e,stroke:#1a1a2e,color:#fff
     style WIN fill:#00b894,stroke:#00b894,color:#fff
 ```
 
@@ -698,8 +709,16 @@ flowchart TD
 
     COPILOT -- "遷移" --> AUTOPILOT
 
-    style COPILOT fill:#f39c12,stroke:#f39c12,color:#fff
-    style AUTOPILOT fill:#00b894,stroke:#00b894,color:#fff
+    style COPILOT fill:#f0f0f5,stroke:#4a4a6a,color:#1a1a2e
+    style AUTOPILOT fill:#e8fdf5,stroke:#00b894,color:#1a1a2e
+    style CP1 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style CP2 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style CP3 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style AP1 fill:#00b894,stroke:#00b894,color:#fff
+    style AP2 fill:#00b894,stroke:#00b894,color:#fff
+    style AP3 fill:#00b894,stroke:#00b894,color:#fff
+    style AP4 fill:#00b894,stroke:#00b894,color:#fff
+    style AP5 fill:#00b894,stroke:#00b894,color:#fff
 ```
 
 ### 6.4 パイオニアの共通点
@@ -799,10 +818,18 @@ flowchart LR
     PHASE1 --> PHASE2["Phase 2: 予算拡張\nROI実証 → 社内Intelligence業務へ\n予算枠の拡大"]
     PHASE2 --> PHASE3["Phase 3: 組織再設計\n人間 = Judgement\nAI = Intelligence\n構造的転換"]
 
-    style TOTAL fill:#00b894,stroke:#00b894,color:#fff
-    style PHASE1 fill:#27ae60,stroke:#27ae60,color:#fff
-    style PHASE2 fill:#2ecc71,stroke:#2ecc71,color:#fff
-    style PHASE3 fill:#1abc9c,stroke:#1abc9c,color:#fff
+    style TAM fill:#f0f0f5,stroke:#4a4a6a,color:#1a1a2e
+    style T1 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style T2 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style T3 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style T4 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style T5 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style T6 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style T7 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style TOTAL fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style PHASE1 fill:#66dabe,stroke:#66dabe,color:#1a1a2e
+    style PHASE2 fill:#33c9a9,stroke:#33c9a9,color:#fff
+    style PHASE3 fill:#00b894,stroke:#00b894,color:#fff
 ```
 
 ### 7.3 拡張プレイブック：アウトソーシング → インソーシング
@@ -912,9 +939,17 @@ flowchart TD
     SERVICE -- "市場アクセスを取る" --> AUTO
     SAAS -- "コスト構造を取る" --> AUTO
 
-    style SERVICE fill:#e74c3c,stroke:#e74c3c,color:#fff
-    style SAAS fill:#f39c12,stroke:#f39c12,color:#fff
-    style AUTO fill:#00b894,stroke:#00b894,color:#fff
+    style SERVICE fill:#f0f0f5,stroke:#1a1a2e,color:#1a1a2e
+    style SAAS fill:#f0f0f5,stroke:#4a4a6a,color:#1a1a2e
+    style AUTO fill:#e8fdf5,stroke:#00b894,color:#1a1a2e
+    style S1 fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style S2 fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style S3 fill:#1a1a2e,stroke:#1a1a2e,color:#fff
+    style SA1 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style SA2 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style SA3 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style A1 fill:#33c9a9,stroke:#33c9a9,color:#fff
+    style A2 fill:#33c9a9,stroke:#33c9a9,color:#fff
     style A3 fill:#00b894,stroke:#00b894,color:#fff
 ```
 
@@ -1087,9 +1122,18 @@ flowchart TD
     CRISIS --> SOLUTION
     MARKET --> SOLUTION
 
-    style CRISIS fill:#e74c3c,stroke:#e74c3c,color:#fff
-    style MARKET fill:#f39c12,stroke:#f39c12,color:#fff
-    style SOLUTION fill:#00b894,stroke:#00b894,color:#fff
+    style CRISIS fill:#f0f0f5,stroke:#1a1a2e,color:#1a1a2e
+    style MARKET fill:#f0f0f5,stroke:#4a4a6a,color:#1a1a2e
+    style SOLUTION fill:#e8fdf5,stroke:#00b894,color:#1a1a2e
+    style CR1 fill:#1a1a2e,stroke:#1a1a2e,color:#fff
+    style CR2 fill:#1a1a2e,stroke:#1a1a2e,color:#fff
+    style CR3 fill:#2d2d44,stroke:#2d2d44,color:#fff
+    style MK1 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style MK2 fill:#4a4a6a,stroke:#4a4a6a,color:#fff
+    style SL1 fill:#00b894,stroke:#00b894,color:#fff
+    style SL2 fill:#00b894,stroke:#00b894,color:#fff
+    style SL3 fill:#33c9a9,stroke:#33c9a9,color:#fff
+    style SL4 fill:#33c9a9,stroke:#33c9a9,color:#fff
 ```
 
 ### 第9章 参考文献
