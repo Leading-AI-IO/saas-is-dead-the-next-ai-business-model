@@ -103,7 +103,7 @@ flowchart LR
     subgraph ERA2["AI革命（2024〜）"]
         direction TB
         B1["🧠 OpenAI / Anthropic / Google\nAI基盤モデルの安定供給"]
-        B2["🚀 ??? 次のアプリ層\n市場規模: ???"]
+        B2["🚀 次のアプリ層: ???\n市場規模: ???"]
         B1 --> B2
     end
 
