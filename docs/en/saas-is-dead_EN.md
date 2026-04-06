@@ -1,4 +1,4 @@
-# SaaS Is Dead: The AI Business Model That Will Create the Next $1 Trillion Company
+# SaaS Is Dead: The Structural Shift from SaaS to Service-as-a-Software
 
 **SaaS Is Dead: The Structural Shift from SaaS to Service-as-a-Software. The Next SaaS Business Model.**
 
