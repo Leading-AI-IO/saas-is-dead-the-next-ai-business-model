@@ -5,6 +5,12 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese-blue)](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model/blob/main/docs)
 
+<p align="left">
+  <img src="../../assets/ogp_design.png" width="80%">
+</p>
+
+<br>
+
 ---
 
 ## 第1章: 不変法則 —— インフラ革命がアプリケーション革命を生む
