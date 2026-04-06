@@ -66,7 +66,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 
 * **AI Strategist & Business Designer at Sun Asterisk Inc.**
 
-* **Founder / AI Strategist at Leading.AI**
+* **Founder / AI Strategist at [Leading.AI](https://www.leading-ai.io/)**
 
 * Over 15 years of experience spanning Business, Technology, and Creative domains. Led 40+ projects as PL/PM at Future Architect (IT consulting), then drove business strategy and new business development at Recruit. Currently at Sun Asterisk as a Business Designer and AI Strategist, where he developed "Depth & Velocity" — a methodology for new business development powered by generative AI.
 
