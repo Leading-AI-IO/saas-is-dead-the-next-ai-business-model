@@ -58,6 +58,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **The Orchestrator** | The first-ever definition of the rarest role in the AI era | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
 | **Advertising, Redesigned** | An open-source book exploring the future of advertising in the AI era through strategic analysis of 7 companies| [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
 | **The 10:80:10 Principle** | The optimal balance for human-AI synergy:「10:80:10」in the AI era. | [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
+| **A Trillion Dollars and a Firebomb** | The Parallel Realities of the AI Era | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb) |
 
 ---
 
