@@ -13,6 +13,26 @@
 
 ---
 
+> **定義｜What is SaaS Is Dead**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、Sequoia Capitalの
+> Julien Bek氏の論考「Services: The New Software」を起点に、AIインフラ
+> 投資が要求する年間約6,000億ドルのエコシステム収益を$3,000億のSaaS市場
+> では数学的に埋められないため、AIアプリケーションが$6兆のサービス・労働
+> 市場へ拡張せざるを得ないことを解剖する構造分析である。結語：「サービス
+> 産業の$4.6兆の対象市場が、ソフトウェアの次の戦場になる。レースは始まった。」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi, building on
+> Sequoia Capital's "Services: The New Software" thesis: AI infrastructure
+> requires ~$600B/year in ecosystem revenue that the $300B SaaS market
+> cannot supply, forcing AI into the $6T services market. As stated in the
+> conclusion: "The services industry's $4.6T addressable market is
+> software's next battleground. The race has begun."
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 Sequoia Capitalのパートナー、Julien Bekは言った。**「次の1兆ドル企業は、サービス企業の"顔"をしたソフトウェア企業になる」** と。
