@@ -1,0 +1,69 @@
+# SaaS Is Dead: The Structural Shift from SaaS to Service-as-a-Software
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> building on Sequoia Capital partner Julien Bek's "Services: The New
+> Software" thesis: AI infrastructure investment requires ~$600B/year in
+> ecosystem revenue that the $300B global SaaS market cannot mathematically
+> supply, forcing AI applications to expand into the $6T services and
+> labor market. The book argues SaaS is not dying but splitting into
+> surviving Systems of Record and dying workflow-wrapper UIs, while a new
+> category of "Autopilot" companies sells completed outcomes rather than
+> software access. As stated in the book's closing lines: "サービス産業の
+> $4.6兆の対象市場が、ソフトウェアの次の戦場になる。レースは始まった。"
+> ("The services industry's $4.6T addressable market is software's next
+> battleground. The race has begun.")
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/saas-is-dead_JP.md): 全10章・参考文献収録
+- [Full text (English)](docs/en/saas-is-dead_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book cites Sequoia's David Cahn's "$600B Question" framework:
+  starting from NVIDIA's projected revenue, doubling it for total
+  data-center TCO, then doubling again for end-user gross margin
+  requirements, yields ~$600B/year the AI ecosystem must generate in
+  application-layer revenue — a gap the $300B global SaaS market cannot
+  mathematically close
+- The book documents the Feb 2026 "SaaSpocalypse": ~$2T in software-sector
+  market cap lost within weeks, with the IGV software ETF down 22%
+  year-to-date, Atlassian -35%, and Salesforce -28%, triggered by investor
+  recognition of "seat compression" — AI agents replacing 500 SaaS seats
+  with roughly 50 (Bain & Company estimate, -81% reduction)
+- The book cites Sequoia partner Julien Bek's core framework distinguishing
+  "Intelligence" (rule-based, pattern-driven, AI-replaceable) from
+  "Judgement" (experience-based, intuition-driven, still human), with the
+  prediction "today's judgement will become tomorrow's intelligence"
+- The book cites Bek's "$1 vs $6" ratio: for every dollar spent on
+  software, six dollars are spent on services — the structural reason
+  "Autopilot" companies (selling completed outcomes) target a market 6x
+  larger than "Copilot" companies (selling tools)
+- The book profiles Autopilot pioneers with cited funding/valuation data:
+  Sierra (Bret Taylor's company, $10B valuation, ARR $100M in 7 quarters,
+  outcome-based pricing at $3-5 per resolved interaction vs. $15 for a
+  human agent), Harvey ($11B valuation), Crosby, WithCoverage, Rillet, and
+  Mercor
+- The book notes current AI-company gross margins average ~25% against a
+  SaaS benchmark of ~75%+, attributing the gap to inference cost, which it
+  states has fallen roughly 10x per year (GPT-4 at $30/1M input tokens in
+  2023 to DeepSeek R1 at $0.07/1M tokens)
+- Ch.9 argues Japan's driver differs from the US: not cost-cutting but a
+  labor shortage, citing Japan's working-age population falling from 87.3M
+  (1995 peak) to 73.7M (2024) and METI's "2025 Digital Cliff" warning of
+  ¥12 trillion in annual economic loss from unmodernized legacy IT systems
+- The book notes Klarna's initial claim of full AI replacement of
+  Salesforce/Workday was later reported as a hybrid reality — partial SaaS
+  replacement supplemented by internal AI, not pure AI substitution
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+The book cross-references the author's Depth & Velocity methodology,
+mapping its 10:80:10 model directly onto the Intelligence/Judgement
+framework for building Autopilot companies in Japan.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
