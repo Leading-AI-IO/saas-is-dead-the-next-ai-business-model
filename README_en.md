@@ -13,6 +13,21 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, building on Sequoia Capital partner Julien Bek's "Services:
+> The New Software" thesis: AI infrastructure investment requires ~$600B/
+> year in ecosystem revenue that the $300B global SaaS market cannot
+> mathematically supply, forcing AI applications to expand into the $6T
+> services and labor market. As stated in the book's closing lines: "The
+> services industry's $4.6T addressable market is software's next
+> battleground. The race has begun."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 Sequoia Capital partner Julien Bek said it plainly: **"The next trillion-dollar company will look like a services company — but run like a software company."**
